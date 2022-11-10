@@ -1,0 +1,21 @@
+﻿{
+  "name": {
+    "message": "Time in Pakistan"
+  },
+  "short_name": {
+    "message": "TimeInPakistan"
+  },
+  "description": {
+    "message": "Displays current time in Pakistan."
+  },
+  "timeZone": {
+    "message": "Asia/Karachi"
+  },
+  "icon": {
+    "message": "images/pk.png"
+  },
+  "mode": {
+    "message": "24"
+  }
+}
+
