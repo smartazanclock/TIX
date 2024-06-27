@@ -1,21 +1,17 @@
 ﻿{
   "name": {
-    "message": "Time in Pakistan"
+    "message": "Time in Türkiye"
   },
   "short_name": {
-    "message": "TimeInPakistan"
+    "message": "TimeInTürkiye"
   },
   "description": {
-    "message": "Displays current time in Pakistan."
+    "message": "Displays current time in Türkiye."
   },
   "timeZone": {
-    "message": "Asia/Karachi"
-  },
-  "icon": {
-    "message": "images/pk.png"
+    "message": "Europe/Istanbul"
   },
   "mode": {
-    "message": "24"
+    "message": "12"
   }
 }
-
