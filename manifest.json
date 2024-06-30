@@ -16,10 +16,10 @@
   "action": {
     "default_title": "__MSG_short_name__",
     "default_icon": {
-      "128": "images/tr.png"
+      "128": "images/utc.png"
     }
   },
   "icons": {
-    "128": "images/tr.png"
+    "128": "images/utc.png"
   }
 }

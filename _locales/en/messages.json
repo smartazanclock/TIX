@@ -1,15 +1,18 @@
 ﻿{
   "name": {
-    "message": "Time in Türkiye"
+    "message": "UTC Time"
   },
   "short_name": {
-    "message": "TimeInTürkiye"
+    "message": "UTCTime"
   },
   "description": {
-    "message": "Displays current time in Türkiye."
+    "message": "Displays current Coordinated Universal Time (UTC)."
   },
   "timeZone": {
-    "message": "Europe/Istanbul"
+    "message": "UTC"
+  },
+  "icon": {
+    "message": "images/utc.png"
   },
   "mode": {
     "message": "12"
